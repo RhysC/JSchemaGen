@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSchemaGen", "JSchemaGen\JSchemaGen.csproj", "{A0455E58-0420-4D1A-9449-15ADAFB2CF0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSchemaGen.Console", "JSchemaGen.Console\JSchemaGen.Console.csproj", "{0B32B676-3A0E-4F45-82A6-18ADD2526047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0455E58-0420-4D1A-9449-15ADAFB2CF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0455E58-0420-4D1A-9449-15ADAFB2CF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0455E58-0420-4D1A-9449-15ADAFB2CF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0455E58-0420-4D1A-9449-15ADAFB2CF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B32B676-3A0E-4F45-82A6-18ADD2526047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B32B676-3A0E-4F45-82A6-18ADD2526047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B32B676-3A0E-4F45-82A6-18ADD2526047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B32B676-3A0E-4F45-82A6-18ADD2526047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
